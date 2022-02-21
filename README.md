@@ -1,7 +1,11 @@
 # Game-Elements
  Interactive Horror Game environment I worked on during game development bootcamp. all the building 3D modeling and the texture of wall, ceiling and, earth was made by me.
+ 
+ 
 
 the project contain interact code for each game object in the room and sound Manager. 
+
+[Demo](https://maha-sh.itch.io/interactive-horror-game-environment)
 
 This is some screenshot of the project:
 ![Screen Shot 2022-01-02 at 5 17 30 PM](https://user-images.githubusercontent.com/87305604/148118360-c95cc240-b0fc-461c-93a9-8955ee8b98af.png)
