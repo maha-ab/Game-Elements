@@ -1,5 +1,5 @@
 # Game-Elements
-Horror environment simulation project I worked on during game development bootcamp. all the building 3D modeling and the texture of wall, ceiling and, earth was made by me.
+ Interactive Horror Game environment I worked on during game development bootcamp. all the building 3D modeling and the texture of wall, ceiling and, earth was made by me.
 
 the project contain interact code for each game object in the room and sound Manager. 
 
